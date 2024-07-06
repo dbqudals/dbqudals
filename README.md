@@ -46,7 +46,9 @@ KT 코딩마스터스 마스터(24.04)
 동국대학교 정보통신공학 지식재산 융합 경진대회(23.06)
 
 **그 외**
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudalssv)](https://solved.ac/qudalssv/)
+<br>
 |Contact|
 :---|
 qudals61@naver.com
