@@ -6,32 +6,32 @@
 
 <p align="left"> Languages </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=white" height="20"/>
 </p>
 
 <p align="left"> Frameworks, Platforms and Libraries </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white" height="20"/>
 </p>
 
 <p align="left"> IDEs/Editors </p>
-<p align="left>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+<p align="left">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="20"/>
 </p>
 
 <p align="left"> Databases </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white" height="20"/>
 </p>
 
 <p align="left"> Hosting/SaaS </p>
-<p align = "left">
-  <img src="https://img.shields.io/badge/GitHub Actions-000000?style=for-the-badge&logo=GitHub Actions&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/aws-000000?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub Actions-000000?style=flat-square&logo=GitHub-Actions&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/aws-000000?style=flat-square&logo=amazon-aws&logoColor=white" height="20"/>
 </p>
 
 **프로젝트**  
