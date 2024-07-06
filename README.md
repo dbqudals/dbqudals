@@ -43,7 +43,7 @@
       <th>프로젝트명</th>
       <th>프로젝트 소개</th>
       <th>역할</th>
-      <th>이미지</th>
+      <th>기술</th>
     </tr>
   </thead>
   <tbody>
@@ -53,7 +53,11 @@
       <td>인구 밀집도 감지 및 이상행동 탐지 서비스</td>
       <td>CI/CD 구성 및 백엔드 API 개발</td>
       <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aws/aws-original.svg" alt="aws" width="30"/>
       </td>
     </tr>
     <tr>
@@ -62,7 +66,10 @@
       <td>비 벡터링의 효과를 극대화 하는 서비스</td>
       <td>꿀벌 관련 데이터 수집 및 모니터링 페이지 구현</td>
       <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="30"/>
       </td>
     </tr>
     <tr>
@@ -71,8 +78,7 @@
       <td>다중 보안을 통한 중요 문서 보안 서비스를</td>
       <td>개인 프로젝트 기획 및 구현</td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="30"/>
+        
       </td>
     </tr>
   </tbody>
