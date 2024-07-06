@@ -4,13 +4,49 @@
 
 **언어 및 도구**  
 
-<div align=center>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Jenkins-2088FF?style=for-the-badge&logo=jenkins&logoColor=white">
-  <br>
-</div>
+
+
+**프로젝트**  
+
+기간|프로젝트명|프로젝트 소개|역할|기술|
+:---|:---|:---|:---|:---|
+24.06 ~ 24.07 | MilGam | 인구 밀집도 감지 및 이상행동 탐지 서비스 | CI/CD 구성 및 백엔드 API 개발 | |
+24.03 ~ 23.11 | 실시간 꿀벌 모니터링 | 비 벡터링의 효과를 극대화 하는 서비스 | 꿀벌 관련 데이터 수집 및 모니터링 페이지 구현 | |
+23.03 ~ 23.06 | 손동작과 얼굴인식을 활용한 문서 보안 | 다중 보안을 통한 중요 문서 보안 서비스를  | 개인 프로젝트 기획 및 구현 | |
+
+**미니 프로젝트**
+
+기간|프로젝트명|프로젝트 소개|역할|기술|
+:---|:---|:---|:---|:---|
+24.06 | RAG 기반 ChatBot | KT AIVLE SCHOOL 신입생 전용 챗봇 서비스 | 챗봇 서버 및 페이지 구현 | |
+24.05 | - | 상품 판매량 예측을 통한 과재고 방지 서비스 | 상품 관련 시계열 데이터 수집 및 분석 <br> LSTM, CNN 모델링| |
+23.04 | - | 서울시 생활정보 기반 대중교통 수요분석 | 개인 프로젝트 기획 및 구현 | |
+
+**교육 이력**
+
+기간|활동명|
+:---|:---|
+24.02 ~ 24.08| KT AILVE SCHOOL
+18.03 ~ 24.02| 동국대학교 정보통신공학과 
+
+**자격증**
+
+|자격증|
+:---|
+AICE Associate(24.07)
+SQLD(23.12)
+정보처리기사(23.11)
+토익스피킹 IH(23.08)
+
+**수상**
+
+|수상|
+:---|
+KT 코딩마스터스 마스터(24.04)
+동국대학교 정보통신공학 지식재산 융합 경진대회(23.06)
+
+**그 외**
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudalssv)](https://solved.ac/qudalssv/)
+|Contact|
+:---|
+qudals61@naver.com
