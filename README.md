@@ -75,9 +75,10 @@
     </tr>
     <tr>
       <td>23.03 ~ 23.06</td>
-      <td><p><a href="https://github.com/dbqudals/Capston_Design"><strong>
-    손동작과 얼굴인식을 활용한 문서 보안 / 4명
-  </strong></a></p>안</td>
+      <td><p><a href="https://github.com/dbqudals/Capston_Design">
+        <strong>
+          손동작과 얼굴인식을 활용한 문서 보안 <br> 참여 인원: 4명
+        </strong></a></p></td>
       <td>다중 보안을 통한 중요 문서 보안 서비스를</td>
       <td>개인 프로젝트 기획 및 구현</td>
       <td>
