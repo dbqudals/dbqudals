@@ -78,12 +78,12 @@
     </tr>
     <tr>
       <td>23.03 ~ 23.06</td>
+      <td>손동작과 얼굴인식을 활용한 문서 보안</td>
       <td><p><a href="https://github.com/dbqudals/Capston_Design">
         <strong>
-          손동작과 얼굴인식을 활용한 문서 보안 <br> 참여 인원: 4명
+          다중 보안을 통한 문서 보안 강화 서비스 <br> 참여 인원: 4명
         </strong></a></p></td>
-      <td>다중 보안을 통한 중요 문서 보안 서비스를</td>
-      <td>개인 프로젝트 기획 및 구현</td>
+      <td>서비스 페이지 퍼블리싱 및 구현</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="30"/>
