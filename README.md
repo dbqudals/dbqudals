@@ -108,7 +108,7 @@
       <td>챗봇 서버 및 페이지 구현</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
-        Django<br>
+        <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=Django&logoColor=white"/>
         RAG 기반 LLM
       </td>
     </tr>
