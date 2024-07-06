@@ -108,8 +108,8 @@
       <td>챗봇 서버 및 페이지 구현</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" alt="django" width="30"/>
-        <img src="https://img.icons8.com/color/48/000000/nlp.png" alt="rag" width="30"/> <!-- RAG는 맞춤 아이콘을 사용 -->
+        Django<br>
+        RAG 기반 LLM
       </td>
     </tr>
     <tr>
@@ -118,8 +118,8 @@
       <td>상품 판매량 예측을 통한 과재고 방지 서비스</td>
       <td>상품 관련 시계열 데이터 수집 및 분석 <br> LSTM, CNN 모델링</td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
-        <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/><br>
+        Pandas
         <img src="https://img.icons8.com/dusk/64/000000/numpy.png" alt="numpy" width="30"/>    
         <img src="https://img.icons8.com/ios-filled/50/000000/layers.png" alt="lstm" width="30"/>
         <img src="https://img.icons8.com/material-rounded/48/000000/brain.png" alt="cnn" width="30"/>
@@ -131,7 +131,7 @@
       <td>서울시 생활정보 기반 대중교통 수요분석</td>
       <td>개인 프로젝트 기획 및 구현</td>
       <td>
-        <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="30"/>
+        Pandas<br>
         <img src="https://img.icons8.com/dusk/64/000000/numpy.png" alt="numpy" width="30"/>
       </td>
     </tr>
