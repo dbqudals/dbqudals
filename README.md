@@ -109,7 +109,6 @@
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
         <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=Django&logoColor=white"/>
-        RAG 기반 LLM
       </td>
     </tr>
     <tr>
@@ -120,9 +119,7 @@
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
         <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="30"/>    
-        Numpy
-        LSTM
-        CNN
+        <img src="https://img.shields.io/badge/Numpy-000000?style=flat-square&logo=Numpy&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -132,7 +129,7 @@
       <td>개인 프로젝트 기획 및 구현</td>
       <td>
         <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="30"/>
-        Numpy
+        <img src="https://img.shields.io/badge/Numpy-000000?style=flat-square&logo=Numpy&logoColor=white"/>
       </td>
     </tr>
   </tbody>
