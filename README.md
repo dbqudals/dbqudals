@@ -50,7 +50,10 @@
     <tr>
       <td>24.06 ~ 24.07</td>
       <td>MilGam</td>
-      <td>인구 밀집도 감지 및 이상행동 탐지 서비스</td>
+      <td><p><a href="https://github.com/K-Saaan/crowdm">
+        <strong>
+          인구 밀집도 감지 및 이상행동 탐지 서비스 <br> 참여 인원: 9명
+        </strong></a></p></td>
       <td>CI/CD 구성 및 백엔드 API 개발</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30"/>
@@ -106,6 +109,10 @@
       <td>24.06</td>
       <td>RAG 기반 ChatBot</td>
       <td>KT AIVLE SCHOOL 신입생 전용 챗봇 서비스</td>
+      <td><p><a https://github.com/yjh4124/Aivle_12_team">
+        <strong>
+          KT AIVLE SCHOOL 신입생 전용 챗봇 서비스 <br> 참여 인원: 7명
+        </strong></a></p></td>
       <td>챗봇 서버 및 페이지 구현</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
@@ -115,7 +122,10 @@
     <tr>
       <td>24.05</td>
       <td>-</td>
-      <td>상품 판매량 예측을 통한 과재고 방지 서비스</td>
+      <td><p><a href="https://github.com/dbqudals/Sales-forecast">
+        <strong>
+          상품 판매량 예측을 통한 과재고 방지 서비스 <br> 참여 인원: 7명
+        </strong></a></p></td>
       <td>상품 관련 시계열 데이터 수집 및 분석 <br> LSTM, CNN 모델링</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
@@ -126,7 +136,10 @@
     <tr>
       <td>23.04</td>
       <td>-</td>
-      <td>서울시 생활정보 기반 대중교통 수요분석</td>
+      <td><p><a href="https://github.com/dbqudals/Capston_Design">
+        <strong>
+          서울시 생활정보 기반 대중교통 수요분석 <br> 참여 인원: 1명(본인)
+        </strong></a></p></td
       <td>개인 프로젝트 기획 및 구현</td>
       <td>
         <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="30"/>
