@@ -4,14 +4,51 @@
 
 **언어 및 도구**  
 
+<p align="left"> Languages </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+</p>
 
+<p align="left"> Frameworks, Platforms and Libraries </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></a>&nbsp
+</p>
+
+<p align="left"> IDEs/Editors </p>
+<p align="left>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+</p>
+
+<p align="left"> Databases </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+</p>
+
+<p align="left"> Hosting/SaaS </p>
+<p align = "left">
+  <img src="https://img.shields.io/badge/GitHub Actions-000000?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/aws-000000?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+</p>
 
 **프로젝트**  
 
 기간|프로젝트명|프로젝트 소개|역할|기술|
 :---|:---|:---|:---|:---|
 24.06 ~ 24.07 | MilGam | 인구 밀집도 감지 및 이상행동 탐지 서비스 | CI/CD 구성 및 백엔드 API 개발 | |
-24.03 ~ 23.11 | 실시간 꿀벌 모니터링 | 비 벡터링의 효과를 극대화 하는 서비스 | 꿀벌 관련 데이터 수집 및 모니터링 페이지 구현 | |
+24.03 ~ 23.11 | 실시간 꿀벌 모니터링 | 비 벡터링의 효과를 극대화 하는 서비스 | 꿀벌 관련 데이터 수집 및 모니터링 페이지 구현 | <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"
+    alt="raspberrypi" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
+    alt="tensorflow" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
+    alt="flask" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30"/>
+  </p> |
 23.03 ~ 23.06 | 손동작과 얼굴인식을 활용한 문서 보안 | 다중 보안을 통한 중요 문서 보안 서비스를  | 개인 프로젝트 기획 및 구현 | |
 
 **미니 프로젝트**
@@ -26,7 +63,7 @@
 
 기간|활동명|
 :---|:---|
-24.02 ~ 24.08| KT AILVE SCHOOL
+24.02 ~ 24.08| KT AIVLE SCHOOL
 18.03 ~ 24.02| 동국대학교 정보통신공학과 
 
 **자격증**
@@ -42,7 +79,7 @@ SQLD(23.12)
 
 |수상|
 :---|
-KT 코딩마스터스 마스터(24.04)
+KT AIVLE School 5기 1차 코딩마스터스 마스터(24.04)
 동국대학교 정보통신공학 지식재산 융합 경진대회(23.06)
 
 **그 외**
