@@ -109,7 +109,7 @@
       <td>24.06</td>
       <td>RAG 기반 ChatBot</td>
       <td>KT AIVLE SCHOOL 신입생 전용 챗봇 서비스</td>
-      <td><p><a https://github.com/yjh4124/Aivle_12_team">
+      <td><p><a href="https://github.com/yjh4124/Aivle_12_team">
         <strong>
           KT AIVLE SCHOOL 신입생 전용 챗봇 서비스 <br> 참여 인원: 7명
         </strong></a></p></td>
@@ -136,7 +136,7 @@
     <tr>
       <td>23.04</td>
       <td>-</td>
-      <td><p><a href="https://github.com/dbqudals/Capston_Design">
+      <td><p><a href="https://github.com/dbqudals/Seoul-Metropolitan-Government-s-Shared-Bicycle-Ttareungi-Demand-Forecast-Project">
         <strong>
           서울시 생활정보 기반 대중교통 수요분석 <br> 참여 인원: 1명(본인)
         </strong></a></p></td
