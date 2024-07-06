@@ -57,7 +57,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="30"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="30"/>
       </td>
     </tr>
@@ -88,11 +88,56 @@
 
 **미니 프로젝트**
 
-기간|프로젝트명|프로젝트 소개|역할|기술|
-:---|:---|:---|:---|:---|
-24.06 | RAG 기반 ChatBot | KT AIVLE SCHOOL 신입생 전용 챗봇 서비스 | 챗봇 서버 및 페이지 구현 | |
-24.05 | - | 상품 판매량 예측을 통한 과재고 방지 서비스 | 상품 관련 시계열 데이터 수집 및 분석 <br> LSTM, CNN 모델링| |
-23.04 | - | 서울시 생활정보 기반 대중교통 수요분석 | 개인 프로젝트 기획 및 구현 | |
+**미니 프로젝트**
+
+<table>
+  <thead>
+    <tr>
+      <th>기간</th>
+      <th>프로젝트명</th>
+      <th>프로젝트 소개</th>
+      <th>역할</th>
+      <th>기술</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>24.06</td>
+      <td>RAG 기반 ChatBot</td>
+      <td>KT AIVLE SCHOOL 신입생 전용 챗봇 서비스</td>
+      <td>챗봇 서버 및 페이지 구현</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" alt="django" width="30"/>
+        <img src="https://img.icons8.com/color/48/000000/nlp.png" alt="rag" width="30"/> <!-- RAG는 맞춤 아이콘을 사용 -->
+      </td>
+    </tr>
+    <tr>
+      <td>24.05</td>
+      <td>-</td>
+      <td>상품 판매량 예측을 통한 과재고 방지 서비스</td>
+      <td>상품 관련 시계열 데이터 수집 및 분석 <br> LSTM, CNN 모델링</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
+        <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="30"/>
+        <img src="https://img.icons8.com/dusk/64/000000/numpy.png" alt="numpy" width="30"/>    
+        <img src="https://img.icons8.com/ios-filled/50/000000/layers.png" alt="lstm" width="30"/>
+        <img src="https://img.icons8.com/material-rounded/48/000000/brain.png" alt="cnn" width="30"/>
+      </td>
+    </tr>
+    <tr>
+      <td>23.04</td>
+      <td>-</td>
+      <td>서울시 생활정보 기반 대중교통 수요분석</td>
+      <td>개인 프로젝트 기획 및 구현</td>
+      <td>
+        <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="30"/>
+        <img src="https://img.icons8.com/dusk/64/000000/numpy.png" alt="numpy" width="30"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 **교육 이력**
 
