@@ -118,10 +118,11 @@
       <td>상품 판매량 예측을 통한 과재고 방지 서비스</td>
       <td>상품 관련 시계열 데이터 수집 및 분석 <br> LSTM, CNN 모델링</td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
         <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="30"/>    
-        <img src="https://img.icons8.com/ios-filled/50/000000/layers.png" alt="lstm" width="30"/>
-        <img src="https://img.icons8.com/material-rounded/48/000000/brain.png" alt="cnn" width="30"/>
+        Numpy
+        LSTM
+        CNN
       </td>
     </tr>
     <tr>
@@ -131,6 +132,7 @@
       <td>개인 프로젝트 기획 및 구현</td>
       <td>
         <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="30"/>
+        Numpy
       </td>
     </tr>
   </tbody>
