@@ -108,7 +108,6 @@
     <tr>
       <td>24.06</td>
       <td>RAG 기반 ChatBot</td>
-      <td>KT AIVLE SCHOOL 신입생 전용 챗봇 서비스</td>
       <td><p><a href="https://github.com/yjh4124/Aivle_12_team">
         <strong>
           KT AIVLE SCHOOL 신입생 전용 챗봇 서비스 <br> 참여 인원: 7명
