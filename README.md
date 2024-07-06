@@ -119,8 +119,7 @@
       <td>상품 관련 시계열 데이터 수집 및 분석 <br> LSTM, CNN 모델링</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/><br>
-        Pandas
-        <img src="https://img.icons8.com/dusk/64/000000/numpy.png" alt="numpy" width="30"/>    
+        <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="30"/>    
         <img src="https://img.icons8.com/ios-filled/50/000000/layers.png" alt="lstm" width="30"/>
         <img src="https://img.icons8.com/material-rounded/48/000000/brain.png" alt="cnn" width="30"/>
       </td>
@@ -131,8 +130,7 @@
       <td>서울시 생활정보 기반 대중교통 수요분석</td>
       <td>개인 프로젝트 기획 및 구현</td>
       <td>
-        Pandas<br>
-        <img src="https://img.icons8.com/dusk/64/000000/numpy.png" alt="numpy" width="30"/>
+        <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="30"/>
       </td>
     </tr>
   </tbody>
