@@ -138,7 +138,7 @@
       <td><p><a href="https://github.com/dbqudals/Seoul-Metropolitan-Government-s-Shared-Bicycle-Ttareungi-Demand-Forecast-Project">
         <strong>
           서울시 생활정보 기반 대중교통 수요분석 <br> 참여 인원: 1명(본인)
-        </strong></a></p></td
+        </strong></a></p></td>
       <td>개인 프로젝트 기획 및 구현</td>
       <td>
         <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="30"/>
