@@ -50,7 +50,7 @@
     <tr>
       <td>24.06 ~ 24.07</td>
       <td>MilGam</td>
-      <td><p><a href="https://github.com/K-Saaan/crowdm">
+      <td><p><a href="https://github.com/dbqudals/MilGam">
         <strong>
           인구 밀집도 감지 및 이상행동 탐지 서비스 <br> 참여 인원: 9명
         </strong></a></p></td>
@@ -67,6 +67,7 @@
     <tr>
       <td>23.03 ~ 23.09</td>
       <td>실시간 꿀벌 모니터링</td>
+      <td><p><a href="https://github.com/dbqudals/Bee-Tracking">
       <td>비 벡터링의 효과를 극대화 하는 서비스</td>
       <td>꿀벌 관련 데이터 수집 및 모니터링 페이지 구현</td>
       <td>
