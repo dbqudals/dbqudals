@@ -1,7 +1,8 @@
-### 👋 반갑습니다!
-
-* 💻 아직 배울게 많은 주니어 웹 백엔드 엔지니어입니다.
-
+* 안녕하세요! 소통을 통해 문제를 해결하는 개발자 유병민입니다.
+* 소통은 저의 원동력으로, 다름을 인정하고 존중하며 목표를 이루는 과정에서 중요하다고 생각합니다.
+* 단순한 기능이라도 안정성과 효율성을 고민해 봅니다.
+* 고객 만족도를 극대화하기 위해 책임감을 갖고 업무를 수행할 자신이 있습니다.
+    
 **언어 및 도구**  
 
 <p align="left"> Languages </p>
@@ -68,7 +69,9 @@
       <td>23.03 ~ 23.09</td>
       <td>실시간 꿀벌 모니터링</td>
       <td><p><a href="https://github.com/dbqudals/Bee-Tracking">
-      <td>비 벡터링의 효과를 극대화 하는 서비스</td>
+      <strong>
+        비 벡터링의 효과를 극대화 하는 서비스 <br> 참여 인원: 2명
+      </strong></a></p></td>
       <td>꿀벌 관련 데이터 수집 및 모니터링 페이지 구현</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="30"/>
