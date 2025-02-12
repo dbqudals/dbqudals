@@ -49,6 +49,23 @@
   </thead>
   <tbody>
     <tr>
+      <td>25.02.10 ~ 25.02.20</td>
+      <td>MetaBank</td>
+      <td><p><a href="https://github.com/Metanet-Signal-Platoon">
+        <strong>
+          Monolithic service를 Migration하여 AKS 기반 MSA로 설계·구축​ <br> 참여 인원: 4명
+        </strong></a></p></td>
+      <td>Application debug & DB DR 전략</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="30"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="30"/>
+      </td>
+    </tr>
+    <tr>
       <td>24.06 ~ 24.07</td>
       <td>MilGam</td>
       <td><p><a href="https://github.com/dbqudals/MilGam">
@@ -96,67 +113,11 @@
   </tbody>
 </table>
 
-**미니 프로젝트**
-
-<table>
-  <thead>
-    <tr>
-      <th>기간</th>
-      <th>프로젝트명</th>
-      <th>프로젝트 소개</th>
-      <th>역할</th>
-      <th>기술</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>24.06</td>
-      <td>RAG 기반 ChatBot</td>
-      <td><p><a href="https://github.com/yjh4124/Aivle_12_team">
-        <strong>
-          KT AIVLE SCHOOL 신입생 전용 챗봇 서비스 <br> 참여 인원: 7명
-        </strong></a></p></td>
-      <td>챗봇 서버 및 페이지 구현</td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
-        <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=Django&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td>24.05</td>
-      <td>-</td>
-      <td><p><a href="https://github.com/dbqudals/Sales-forecast">
-        <strong>
-          상품 판매량 예측을 통한 과재고 방지 서비스 <br> 참여 인원: 7명
-        </strong></a></p></td>
-      <td>상품 관련 시계열 데이터 수집 및 분석 <br> LSTM, CNN 모델링</td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30"/>
-        <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="30"/>    
-        <img src="https://img.shields.io/badge/Numpy-000000?style=flat-square&logo=Numpy&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td>23.04</td>
-      <td>-</td>
-      <td><p><a href="https://github.com/dbqudals/Seoul-Metropolitan-Government-s-Shared-Bicycle-Ttareungi-Demand-Forecast-Project">
-        <strong>
-          서울시 생활정보 기반 대중교통 수요분석 <br> 참여 인원: 1명(본인)
-        </strong></a></p></td>
-      <td>개인 프로젝트 기획 및 구현</td>
-      <td>
-        <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="30"/>
-        <img src="https://img.shields.io/badge/Numpy-000000?style=flat-square&logo=Numpy&logoColor=white"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
 **교육 이력**
 
 기간|활동명|
 :---|:---|
+24.12 ~ 25.02| Metanet 클라우드 인프라 엔지니어 양성과정
 24.02 ~ 24.08| KT AIVLE SCHOOL
 18.03 ~ 24.02| 동국대학교 정보통신공학과 
 
@@ -174,7 +135,6 @@ SQLD(23.12)
 
 |수상|
 :---|
-KT AIVLE School 5기 1차 코딩마스터스 마스터(24.04)
 동국대학교 정보통신공학 지식재산 융합 경진대회(23.06)
 KT AIVLE School 5기 빅 프로젝트 최우수상(24.08)
 
