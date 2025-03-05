@@ -49,7 +49,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>25.02.10 ~ 25.02.20</td>
+      <td>25.01.24 ~ 25.02.20</td>
       <td>MetaBank</td>
       <td><p><a href="https://github.com/Metanet-Signal-Platoon">
         <strong>
